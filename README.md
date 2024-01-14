@@ -14,3 +14,7 @@ This is a repo deticated to all the assignments in my University DM Practical Co
 
 - Pandas - Kaggle Certificate
 - Data Cleaning - Kaggle Certificate
+
+## `Course Project`
+- To view the repo containing the course project click [🌟here🌟](https://github.com/Mr-NumberOne/Data_Mining_Course_Project.git)
+
