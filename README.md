@@ -13,6 +13,11 @@ This is a repo deticated to all the assignments in my University DM Practical Co
   - Practicing Association rule mining using Apriori and FP Growth
   - Market Basket Analysis Example using Apriory with Ploting results
   - Skewness, Variance, Standard Deviation - NOTES & References
+- Kmeans - Assignment
+  - Elbow method for finding optimal K
+  - Silhouette method for finding optimal k
+  - Kmeans using optimal k generated
+    - **`Note:` Everything is on ipynb file**
 
 ## `Certificates`
 
