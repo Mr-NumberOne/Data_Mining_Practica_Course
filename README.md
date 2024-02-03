@@ -13,6 +13,12 @@ This is a repo deticated to all the assignments in my University DM Practical Co
   - Practicing Association rule mining using Apriori and FP Growth
   - Market Basket Analysis Example using Apriory with Ploting results
   - Skewness, Variance, Standard Deviation - NOTES & References
+- Similarity - Assignment
+  - Cosine similarity on wine dataset
+- Data Warehouse - Assignment
+  - Star Schema
+  - Data preproccessing
+  - Metabase Testing
 - Kmeans - Assignment
   - Elbow method for finding optimal K
   - Silhouette method for finding optimal k
