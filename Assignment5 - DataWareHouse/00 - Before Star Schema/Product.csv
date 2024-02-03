@@ -1,0 +1,23 @@
+ID,Product,Category,Size,Cost per Box
+1,Milk Bars,Bars,LARGE,$1.52 
+2,50% Dark Bites,Bites,LARGE,$2.57 
+3,Almond Choco,Bars,LARGE,$9.60 
+4,Raspberry Choco,Bars,LARGE,$4.09 
+5,Mint Chip Choco,Bars,LARGE,$1.54 
+6,Eclairs,Bites,LARGE,$2.24 
+7,Drinking Coco,Other,LARGE,$1.62 
+8,99% Dark & Pure,Bars,LARGE,$2.47 
+9,Orange Choco,Bars,LARGE,$7.14 
+10,Spicy Special Slims,Bites,LARGE,$5.79 
+11,After Nines,Bites,LARGE,$4.43 
+12,Fruit & Nut Bars,Bars,LARGE,$1.58 
+13,85% Dark Bars,Bars,SMALL,$0.64 
+14,White Choc,Other,SMALL,$0.16 
+15,Baker's Choco Chips,Bars,SMALL,$3.40 
+16,Organic Choco Syrup,Other,SMALL,$1.47 
+17,Caramel Stuffed Bars,Bars,SMALL,$0.54 
+18,Manuka Honey Choco,Other,SMALL,$4.75 
+19,70% Dark Bites,Bites,SMALL,$4.97 
+20,Smooth Sliky Salty,Bars,SMALL,$2.97 
+21,Choco Coated Almonds,Bites,SMALL,$6.17 
+22,Peanut Butter Cubes,Bites,SMALL,$3.57 

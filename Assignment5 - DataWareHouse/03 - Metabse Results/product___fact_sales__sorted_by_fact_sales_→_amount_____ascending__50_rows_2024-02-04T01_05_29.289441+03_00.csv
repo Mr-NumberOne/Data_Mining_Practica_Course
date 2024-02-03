@@ -1,0 +1,51 @@
+ID,Product,Category,Size,Cost Per Box,Fact Sales → ID,Fact Sales → Date ID,Fact Sales → Sales Person ID,Fact Sales → Product ID,Fact Sales → Geo ID,Fact Sales → Boxes,Fact Sales → Customers,Fact Sales → Amount ($)
+22,Peanut Butter Cubes,Bites,SMALL,3.57,4,259.0,32,22,4,15,1,367
+11,After Nines,Bites,LARGE,4.43,26,147.0,9,11,6,9,12,370
+14,White Choc,Other,SMALL,0.16,64,420.0,196,14,2,1,10,374
+17,Caramel Stuffed Bars,Bars,SMALL,0.54,71,357.0,185,17,6,4,8,374
+21,Choco Coated Almonds,Bites,SMALL,6.17,68,364.0,14,21,5,4,5,374
+8,99% Dark & Pure,Bars,LARGE,2.47,79,189.0,123,8,6,1,11,378
+3,Almond Choco,Bars,LARGE,9.60,108,35.0,142,3,2,4,13,380
+19,70% Dark Bites,Bites,SMALL,4.97,124,308.0,91,19,4,8,6,381
+11,After Nines,Bites,LARGE,4.43,134,238.0,364,11,1,1,10,384
+10,Spicy Special Slims,Bites,LARGE,5.79,153,161.0,95,10,6,6,8,385
+18,Manuka Honey Choco,Other,SMALL,4.75,163,343.0,338,18,3,6,10,386
+13,85% Dark Bars,Bars,SMALL,0.64,165,126.0,127,13,1,15,15,386
+17,Caramel Stuffed Bars,Bars,SMALL,0.54,176,280.0,408,17,5,3,8,387
+10,Spicy Special Slims,Bites,LARGE,5.79,205,168.0,94,10,2,3,20,388
+2,50% Dark Bites,Bites,LARGE,2.57,219,42.0,35,2,4,22,8,391
+6,Eclairs,Bites,LARGE,2.24,288,182.0,46,6,4,1,21,394
+10,Spicy Special Slims,Bites,LARGE,5.79,303,140.0,91,10,3,2,19,395
+22,Peanut Butter Cubes,Bites,SMALL,3.57,337,462.0,223,22,2,22,11,399
+18,Manuka Honey Choco,Other,SMALL,4.75,355,392.0,89,18,3,3,13,401
+7,Drinking Coco,Other,LARGE,1.62,351,182.0,36,7,6,18,25,401
+5,Mint Chip Choco,Bars,LARGE,1.54,361,56.0,168,5,3,12,15,401
+12,Fruit & Nut Bars,Bars,LARGE,1.58,393,336.0,164,12,4,7,8,405
+1,Milk Bars,Bars,LARGE,1.52,434,21.0,300,1,6,8,13,409
+11,After Nines,Bites,LARGE,4.43,445,266.0,112,11,6,22,12,409
+6,Eclairs,Bites,LARGE,2.24,474,133.0,195,6,4,7,25,414
+7,Drinking Coco,Other,LARGE,1.62,512,63.0,206,7,1,2,10,416
+7,Drinking Coco,Other,LARGE,1.62,536,182.0,85,7,1,7,18,419
+21,Choco Coated Almonds,Bites,SMALL,6.17,552,315.0,5,21,5,12,11,420
+6,Eclairs,Bites,LARGE,2.24,551,168.0,3,6,3,17,5,420
+21,Choco Coated Almonds,Bites,SMALL,6.17,580,406.0,260,21,6,20,23,422
+17,Caramel Stuffed Bars,Bars,SMALL,0.54,588,294.0,80,17,1,22,10,423
+22,Peanut Butter Cubes,Bites,SMALL,3.57,601,413.0,414,22,3,13,16,423
+18,Manuka Honey Choco,Other,SMALL,4.75,590,280.0,220,18,2,12,9,423
+18,Manuka Honey Choco,Other,SMALL,4.75,612,476.0,86,18,5,18,2,426
+15,Baker's Choco Chips,Bars,SMALL,3.40,633,420.0,43,15,5,1,14,428
+16,Organic Choco Syrup,Other,SMALL,1.47,650,448.0,98,16,6,7,4,430
+10,Spicy Special Slims,Bites,LARGE,5.79,648,308.0,74,10,5,18,11,430
+8,99% Dark & Pure,Bars,LARGE,2.47,658,161.0,55,8,4,21,5,433
+3,Almond Choco,Bars,LARGE,9.60,657,63.0,106,3,6,22,3,433
+3,Almond Choco,Bars,LARGE,9.60,660,49.0,250,3,1,11,15,433
+6,Eclairs,Bites,LARGE,2.24,683,154.0,101,6,2,10,24,434
+15,Baker's Choco Chips,Bars,SMALL,3.40,720,315.0,232,15,2,22,18,437
+16,Organic Choco Syrup,Other,SMALL,1.47,719,385.0,227,16,5,7,23,437
+8,99% Dark & Pure,Bars,LARGE,2.47,714,154.0,172,8,6,6,1,437
+4,Raspberry Choco,Bars,LARGE,4.09,732,49.0,78,4,6,19,23,437
+20,Smooth Sliky Salty,Bars,SMALL,2.97,742,371.0,191,20,3,5,24,440
+21,Choco Coated Almonds,Bites,SMALL,6.17,744,518.0,223,21,5,18,20,441
+22,Peanut Butter Cubes,Bites,SMALL,3.57,774,623.0,224,22,1,17,3,442
+10,Spicy Special Slims,Bites,LARGE,5.79,799,252.0,48,10,2,11,2,447
+19,70% Dark Bites,Bites,SMALL,4.97,823,357.0,204,19,4,8,15,449

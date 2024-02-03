@@ -1,0 +1,6 @@
+ID,Sales Person,Product → Product,Product → Category,Fact Sales → Amount ($),Fact Sales → Customers,Product → Cost Per Box
+9,Andria Kimpton,After Nines,Bites,370,12,4.43
+14,Dotty Strutley,Choco Coated Almonds,Bites,374,5,6.17
+3,Gunar Cockshoot,Eclairs,Bites,420,5,2.24
+5,Gigi Bohling,Choco Coated Almonds,Bites,420,11,6.17
+19,Beverie Moffet,Choco Coated Almonds,Bites,472,11,6.17
